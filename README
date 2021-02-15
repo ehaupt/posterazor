@@ -4,6 +4,12 @@ Description:
 Homepage:
   http://posterazor.sourceforge.net/
 
+Icon:
+  https://git.archlinux.org/svntogit/community.git/tree/trunk/posterazor.xpm
+
+Fork:
+  https://github.com/aportale/posterazor
+
 Maintainer:
   Alessandro Portale <alessandro _at_ casaportale _dot_ de>
 
