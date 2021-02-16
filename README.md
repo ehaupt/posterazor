@@ -3,7 +3,7 @@
 ## Description
 PosteRazor cuts raster images into multipage PDF documents.
 
-This is a fork from https://github.com/aportale/posterazor. The main reason for this fork is to have icons and annotated tags included for easier packaging.
+This is a fork from [aportale/posterazor](https://github.com/aportale/posterazor). The main reason for this fork is to have additional resources such as icons and annotated tags included for easier packaging.
 
 ## Homepage
  http://posterazor.sourceforge.net/
