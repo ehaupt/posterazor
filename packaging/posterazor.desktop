@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PosteRazor
+GenericName=Make your own poster!
+Comment=Make your own poster!
+Icon=posterazor
+Exec=posterazor
+Categories=Application;Graphics;
