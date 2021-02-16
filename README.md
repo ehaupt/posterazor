@@ -9,7 +9,7 @@ This is a fork from https://github.com/aportale/posterazor. The main reason for 
  http://posterazor.sourceforge.net/
 
 ## Icon
-Icons in https://github.com/ehaupt/posterazor/tree/packaging/icons were obtained from https://git.archlinux.org/svntogit/community.git/tree/trunk/posterazor.xpm.
+Icons in [./icons](https://github.com/ehaupt/posterazor/tree/packaging/icons) were obtained from https://git.archlinux.org/svntogit/community.git/tree/trunk/posterazor.xpm.
 
 ## Author
 [Alessandro Portale](https://github.com/aportale)
